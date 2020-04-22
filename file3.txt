@@ -1,3 +1,4 @@
 initial file3
 search
 add category
+bug fix
